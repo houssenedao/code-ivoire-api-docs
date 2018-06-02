@@ -38,3 +38,7 @@
 - ## Testing
     - [PHP Unit](unit-testing.md)
     - [PHP Code Sniffer](php-code-sniffer.md)
+
+- ## Packages Uses
+    - [Passport](unit-testing.md)
+    - [Predis](php-code-sniffer.md)
