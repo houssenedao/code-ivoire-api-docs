@@ -16,7 +16,7 @@
     - [Events](events.md)
     - [Reviews](reviews.md)
     - [Tags](tags.md)
-    - [Others Methode](others-methode.md)
+    - [Others Methode](others-methods.md)
 
 - ## Security
     - [Authentication](authentication.md)
