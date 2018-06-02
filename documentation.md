@@ -1,40 +1,40 @@
 
 - ## Prologue
-    - [Release Notes](releases)
-    - [Contribution Guide](contributions)
+    - [Release Notes](releases.md)
+    - [Contribution Guide](contributions.md)
 
 - ## Getting Started
-    - [Installation](installation)
-    - [Configuration](configuration)
-    - [Directory Structure](structure)
-    - [Deployment](deployment)
+    - [Installation](installation.md)
+    - [Configuration](configuration.md)
+    - [Directory Structure](structure.md)
+    - [Deployment](deployment.md)
 
 - ## The Endpoints
-    - [Roles](roles)
-    - [Permissions](permissions)
-    - [Categories](categories)
-    - [Events](events)
-    - [Reviews](reviews)
-    - [Tags](tags)
-    - [Others Methode](others-methode)
+    - [Roles](roles.md)
+    - [Permissions](permissions.md)
+    - [Categories](categories.md)
+    - [Events](events.md)
+    - [Reviews](reviews.md)
+    - [Tags](tags.md)
+    - [Others Methode](others-methode.md)
 
 - ## Security
-    - [Authentication](authentication)
-    - [Register](register)
-    - [Active Account](active-account)
-    - [Password Reset](passwords)
+    - [Authentication](authentication.md)
+    - [Register](register.md)
+    - [Active Account](active-account.md)
+    - [Password Reset](passwords.md)
 
 - ## Broadcasting
-    - [Getting Started](broadcast)
+    - [Getting Started](broadcast.md)
 
 - ## Mail
-    - [Getting Started](mail)
+    - [Getting Started](mail.md)
 
 - ## Database
-    - [Getting Started](database)
-    - [Migrations](migrations)
-    - [Seeding](seeding)
+    - [Getting Started](database.md)
+    - [Migrations](migrations.md)
+    - [Seeding](seeding.md)
 
 - ## Testing
-    - [PHP Unit](unit-testing)
-    - [PHP Code Sniffer](php-code-sniffer)
+    - [PHP Unit](unit-testing.md)
+    - [PHP Code Sniffer](php-code-sniffer.md)
